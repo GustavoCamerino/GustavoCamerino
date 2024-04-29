@@ -25,6 +25,5 @@ Technologies I'm used to
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width = 50dp height= 50dp />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width = 50dp height= 50dp />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width = 50dp height= 50dp />
-  <img loading="lazy" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*-PlFCd_VBcALKReO3ZaOEg.png" width="50" height="100"/>
-  <img >
+  
 </div>
