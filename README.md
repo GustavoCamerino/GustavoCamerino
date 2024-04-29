@@ -15,5 +15,7 @@ I'm a CS student, Software Engineer and Football Player in my spare time
 ---
 Technologies I'm used to
 ---
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width = 50dp height= 50dp />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width = 50dp height= 50dp />
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width = 50dp height= 50dp />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width = 50dp height= 50dp />
+</div>
