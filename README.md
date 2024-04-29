@@ -1,7 +1,7 @@
 Hi! I'm Gustavo Camerino ✌️
 ---
 
-    ${{ github.GustavoCamerino }}
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
 
