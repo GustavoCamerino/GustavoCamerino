@@ -25,7 +25,6 @@ Technologies I'm used to
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width = 50dp height= 50dp />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width = 50dp height= 50dp />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width = 50dp height= 50dp />
-  <img loading="lazy" src="![image](https://github.com/GustavoCamerino/GustavoCamerino/assets/165351846/a10c5c44-75ac-48d0-aa7b-9a506badb295)
-" width="50" height="50"/>
+  <img loading="lazy" src="https://github.com/GustavoCamerino/GustavoCamerino/assets/165351846/a10c5c44-75ac-48d0-aa7b-9a506badb295" width="50" height="50"/>
   <img >
 </div>
