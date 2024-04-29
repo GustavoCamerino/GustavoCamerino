@@ -25,6 +25,6 @@ Technologies I'm used to
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width = 50dp height= 50dp />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width = 50dp height= 50dp />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width = 50dp height= 50dp />
-  <img loading="lazy" src="https://github.com/GustavoCamerino/GustavoCamerino/assets/165351846/a10c5c44-75ac-48d0-aa7b-9a506badb295" width="50" height="50"/>
+  <img loading="lazy" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40vinusebastianthomas%2Fdocument-chains-in-langchain-d33c4bdbabd8&psig=AOvVaw0YSMNVD15fOT5q09nab8cR&ust=1714505685185000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIic6suV6IUDFQAAAAAdAAAAABAE" width="50" height="50"/>
   <img >
 </div>
