@@ -1,4 +1,6 @@
 Hi! I'm Gustavo Camerino ✌️
 ---
 
-![Snake animation](https://github.com/GustavoCamerino/GustavoCamerino/blob/output/github-contribution-grid-snake.svg)
+<div>
+<a href="https://www.linkedin.com/in/gustavo-camerino-de-carvalho-a112011a1" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" target="_blank"></a>
+</div>
