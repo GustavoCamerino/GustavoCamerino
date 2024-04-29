@@ -17,5 +17,15 @@ Technologies I'm used to
 ---
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width = 50dp height= 50dp />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width = 50dp height= 50dp />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width = 50dp height= 50dp />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width = 50dp height= 50dp />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width = 50dp height= 50dp />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width = 50dp height= 50dp/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width = 50dp height= 50dp />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width = 50dp height= 50dp />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width = 50dp height= 50dp />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width = 50dp height= 50dp />
+  <img loading="lazy" src="![image](https://github.com/GustavoCamerino/GustavoCamerino/assets/165351846/a10c5c44-75ac-48d0-aa7b-9a506badb295)
+" width="50" height="50"/>
+  <img >
 </div>
